@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-AipApplication<aip>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.online.shopping.aip.AipApplication",
+      "projectName": "aip",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

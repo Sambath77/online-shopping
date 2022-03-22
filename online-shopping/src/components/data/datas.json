@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Controller",
+    "price": 124,
+    "detail": "IOS game controller"
+  },
+  { "id": 2, "name": "Keyboard", "price": 120, "detail": "Colorful keyboard" },
+  { "id": 3, "name": "Mouse", "price": 99, "detail": "Wireless mouse" }
+]
